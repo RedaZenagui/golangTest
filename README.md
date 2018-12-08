@@ -15,6 +15,7 @@ go run main.go
 # L'envoie d'une requete
 
 On utilise le noeud point /graphQL
+
 En utilisant une requete POST:
 
 Comme notre serveur est limité, la requete doit etre comme ceci :
