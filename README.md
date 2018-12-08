@@ -21,7 +21,8 @@ Comme notre serveur est limité, la requete doit etre comme ceci :
 
 {
 	'query: {str}
-}    
+}
+
 En utilisant une requete GET:
 
 la requete doit etre comme ceci :
